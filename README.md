@@ -7,7 +7,7 @@ The code I developed intelligently defeats not only the naive strategy but also 
 Out of the 40, my strategy placed somewhere in the top 20. </br>
 
 ---
-#Further documentation in the "documentation" directory:
+##Further documentation in the "documentation" directory:
 1. For project outline refer to: </br>
 "Project Specification.pdf"
 
@@ -30,7 +30,7 @@ Out of the 40, my strategy placed somewhere in the top 20. </br>
 ---
 ## How to evaluate my code:
 1. In a Visual Studio Command Prompt window, compile the review program by typing:
-> cl /Fereview.exe /W4 review_program.obj abcd001_project2.c
+> cl /F review.exe /W4 review_program.obj abcd001_project2.c
   
 2. Run the review program:
 > review.exe
