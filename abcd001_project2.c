@@ -1,7 +1,6 @@
 #include "proj2.h"
 void peer001_CreateDeck(Deck *deck)
 {
-	/* Declaring loop variable, i.*/
 	int i;
 	//Initialising the number of cards in the deck as zero.
 	deck->numCards = 0;
