@@ -7,8 +7,8 @@ The code I developed intelligently defeats not only the naive strategy but also 
 Out of the 40, my strategy placed somewhere in the top 20. </br>
 
 ---
-##Further documentation in the "documentation" directory:
-1. For project outline refer to: </br>
+##Find further details in the "documentation" directory:
+1. For details regarding project scope refer to: </br>
 "Project Specification.pdf"
 
 2. For details of my strategy, refer to: </br>
